@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/kubaj/kubeauth/providers"
+	"github.com/jimgreenejr/kubeauth/providers"
 	"gopkg.in/AlecAivazis/survey.v1"
 )
 
